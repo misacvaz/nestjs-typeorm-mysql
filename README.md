@@ -1,52 +1,52 @@
 __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## Curso de NestJS Fundamentos 2023 - Códigos Poderosos para Desenvolvimento Back-End
+# Curso de NestJS Fundamentos 2023 - Códigos Poderosos para Desenvolvimento Back-End
 NestJS Fundamentos - HCode
 
-# Descrição
+## Descrição
 Bem-vindo(a) ao Curso de NestJS Fundamentos 2023!
 
 Este repositório é dedicado aos códigos e conhecimentos adquiridos durante o Curso de NestJS Fundamentos 2023. O curso proporcionou uma introdução completa ao desenvolvimento back-end utilizando NodeJS e o poderoso framework NestJS. Durante nossa jornada, exploramos conceitos essenciais para a criação de sistemas e APIs robustas, bem como o uso de bancos de dados mapeados via ORM com TypeORM e Prisma.
 
-# Conteúdo do Curso
+## Conteúdo do Curso
 Neste curso, abordamos os seguintes tópicos:
 
-# Introdução ao NestJS
+## Introdução ao NestJS
 - Entendendo o funcionamento do NestJS
 - Requisição HTTP, Request e Response
 - Controllers, Services e Modules
 
-# Bancos de Dados com ORM (TypeORM e Prisma)
+## Bancos de Dados com ORM (TypeORM e Prisma)
 Utilizando bancos de dados MySQL com TypeORM e Prisma
 Operações CRUD em bancos de dados
 
-# JavaScript com TypeScript
+## JavaScript com TypeScript
 - Aprendendo a utilizar TypeScript em conjunto com JavaScript
 - Benefícios da tipagem estática do TypeScript
 
-# Autenticação JWT
+## Autenticação JWT
 - Implementando autenticação com JSON Web Tokens (JWT)
 - Criando rotas restritas para usuários autenticados
 
-# Upload de Arquivos e Dicas de Casos Reais
+## Upload de Arquivos e Dicas de Casos Reais
 - Entendendo o processo de upload de arquivos em aplicações NestJS
 - Dicas práticas e casos reais para lidar com arquivos enviados pelos usuários
 
-# Boas Práticas de Programação
+## Boas Práticas de Programação
 - Programação orientada a objetos
 - Utilização de Design Patterns
 - Uso de decorators, controllers, services e middleware
 
-# Programação orientada a objetos
+## Programação orientada a objetos
 - Utilização de Design Patterns
 - Uso de decorators, controllers, services e middleware
 
-# Segurança, Testes e Publicação
+## Segurança, Testes e Publicação
 - Boas práticas de segurança no desenvolvimento NestJS
 - Realização de testes para garantir a qualidade do código
 - Preparação da aplicação para publicação em ambientes de produção
 
-# O Que Aprendi
+## O Que Aprendi
 Durante o curso, adquiri habilidades essenciais para o desenvolvimento back-end com NodeJS e NestJS. Agora estou apto(a) a:
 
 - Utilizar bancos de dados MySQL através de ORMs como TypeORM e Prisma, permitindo a realização de operações CRUD de forma eficiente.
@@ -54,10 +54,10 @@ Durante o curso, adquiri habilidades essenciais para o desenvolvimento back-end 
 - Lidar com o upload de arquivos em aplicações NestJS e aplicar boas práticas de programação, como o uso de DTOs, Design Patterns e ORM, para garantir a qualidade do meu código.
 - Assegurar a segurança em minhas aplicações e realizar testes para garantir a confiabilidade do código desenvolvido.
 
-# Acesso ao Curso
+## Acesso ao Curso
 Lembrando que o curso oferece acesso vitalício, permitindo que eu possa revisitar o conteúdo sempre que necessário. Agradeço à equipe responsável pelo curso por disponibilizar esse conhecimento valioso!
 
-# Contribuições
+## Contribuições
 Sinta-se à vontade para contribuir com este repositório, compartilhando melhorias, sugestões ou correções. Juntos, podemos fortalecer e expandir o conhecimento na comunidade de desenvolvedores.
 
 
