@@ -43,7 +43,7 @@ Com o conhecimento adquirido, agora estou apto a lidar com o upload de arquivos 
 
 Acesso ao Curso
 Lembrando que o curso oferece acesso vitalício, permitindo que eu possa revisitar o conteúdo sempre que necessário. Agradeço à equipe responsável pelo curso por disponibilizar esse conhecimento valioso!
-
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
